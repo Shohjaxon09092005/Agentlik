@@ -1,0 +1,40 @@
+.vacancy-container {
+    width: 100%;
+    margin: 0 auto;
+    text-align: left;
+    background-color: white;
+    box-shadow: 2px -2px 2px white;
+    border-radius: 15px;
+    padding: 0 10px;
+  }
+  
+  .vacancy-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .vacancy-table th, .vacancy-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    font-size: 18px;
+  }
+  
+  .vacancy-table th {
+    background-color: #f2f2f2;
+    text-align: center;
+  }
+  
+  .additional-info {
+    margin-top: 20px;
+  }
+  
+  .additional-info li {
+    margin-bottom: 10px;
+    font-size: 18px;
+  }
+  
+  .additional-info a {
+    color: blue;
+    text-decoration: underline;
+  }
